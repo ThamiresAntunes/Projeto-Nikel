@@ -1,0 +1,110 @@
+#login{
+    background: linear-gradient(120deg, #4c79d3 44.9%, #ffffff 45%) no-repeat fixed;
+}
+/* Tela Home */
+#app{
+    background: linear-gradient(120deg, #ffffff 44.9%, #4c79d3 45%) no-repeat fixed;
+}
+
+.color-primary{
+    color: #4e0070;
+}
+.color-secondary{
+    color: #4c79d3;
+}
+
+.icon-detail{
+    font-size: 50px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.info{
+    background-color: #ffffff;
+    border-radius: 20px 20px 0px 0px ;
+    padding: 20px 0px 0px 0px;
+}
+
+.text-login{
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.moedas{
+    position: absolute;
+    bottom: 20px;
+}
+
+.btn-entrar{
+    border-radius: 10px;
+    background-color: #4e0070;
+    color: #ffffff;
+    width: 50%;
+    margin: 0 25%;
+}
+
+.btn-padrao{
+    border-radius: 10px;
+    background-color: #4e0070;
+    color: #ffffff;
+}
+
+.btn-cancelar{
+    border-radius: 10px;
+}
+
+.btn-float{
+    border-radius: 100px;
+    border: 2px solid #4e0070;
+    height: 60px;
+    width: 60px;
+    position: fixed;
+    padding: 0 !important;
+    bottom: 1rem;
+    right: 2rem;
+    font-size: 35px;
+    background-color: #4e0070;
+    color: #ffffff;
+
+}
+
+.btn-float:hover{
+    border: 2px solid #4c79d3;
+    background-color: #ffffff;
+    color: #4c79d3;
+}
+
+.btn-entrar:hover, .btn-padrao:hover{
+    background-color: #4c79d3;
+    color: #ffffff;
+}
+
+.links{
+    color: #4e0070;
+    cursor: pointer;
+}
+
+.links:hover{
+    color: #4c79d3;
+}
+
+.icon-text {
+    font-size: 30px;
+    color: rgb(144, 142, 142);
+    text-decoration: none
+}
+
+header{
+    border-bottom: 1px solid #bebcdc;
+    padding: 5px;
+    background-color: #ffffff;
+}
+
+.sair{
+    min-width: 5rem !important;
+}
+
+.menu{
+    margin-right: 20px;
+}
